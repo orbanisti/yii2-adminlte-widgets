@@ -54,13 +54,13 @@ class FlashAlerts extends Widget
     
     public $infoIcon = '<i class="fa fa-lg fa-info-circle"></i>';
     
-    public $successTitle = 'Успешно!';
+    public $successTitle = 'Success!';
     
-    public $errorTitle = 'Ошибка!';
+    public $errorTitle = 'Error!';
     
-    public $warningTitle = 'Внимание!';
+    public $warningTitle = 'Warning!';
     
-    public $infoTitle = 'К сведению!';
+    public $infoTitle = 'Info!';
     
     private $classes;
     
